@@ -1,5 +1,0 @@
-"The Echo Pattern Recognition Engine was not conceived in a boardroom or a data science lab. It was conceived behind a ticket window forty years ago by a young man watching humans make decisions under pressure. He noticed three things that never changed regardless of the sport, the season, or the stakes:
-1.	Affiliation Over Logic: People bet their hearts over their heads when their team was involved.
-2.	The Crowd Effect: People followed the crowd when the media told them which way to go.
-3.	Emotional Chasing: People chased their losses in ways that had nothing to do with the game in front of them and everything to do with the emotional state inside them.
-Echo Sports was built to capture those three patterns at global scale — not to exploit them, but to understand them, quantify them, and ultimately use them to build a platform where sports knowledge is genuinely rewarded and human behavior is genuinely protected. Every other platform studies winners. Echo studies everyone — and the losers teach us more."
